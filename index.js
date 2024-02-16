@@ -1,0 +1,1 @@
+alert("practicing snap scroll. is optimized for mobile but looks weird lol")
